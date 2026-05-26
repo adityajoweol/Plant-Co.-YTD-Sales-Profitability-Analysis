@@ -110,3 +110,6 @@ Helps segment accounts into:
 High-value profitable customers
 Low-margin accounts
 Growth opportunity segments
+
+Screenshot of the dashboard:
+https://github.com/adityajoweol/Plant-Co.-YTD-Sales-Profitability-Analysis/blob/main/snapshotofthedashboard.png
